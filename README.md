@@ -23,5 +23,5 @@ pip install -r requirements.txt
 - CUDA 12.1
 
 # Doing List
-- [ ] [AutoTrain for Instruction Tuning]()
+- [x] [AutoTrain for Instruction Tuning(Initial)]()
 

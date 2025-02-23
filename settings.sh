@@ -5,3 +5,6 @@ git config --global user.name "NewPlus"
 # Python Settings
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+
+# Huggingface Settings
+huggingface-cli login --token $HF_TOKEN

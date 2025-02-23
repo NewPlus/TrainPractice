@@ -1,6 +1,6 @@
 autotrain llm --train \
     --project-name "llama3-autotrain" \
-    --model "beomi/Llama-3-Open-Ko-8B" \
+    --model "meta-llama/Llama-3.2-1B" \
     --data-path "royboy0416/ko-alpaca" \
 #    --data-path "/content/dataset" \
     --text-column "text" \

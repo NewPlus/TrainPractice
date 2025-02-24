@@ -1,0 +1,1 @@
+autotrain --config ./config_dpo.yaml

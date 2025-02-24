@@ -9,6 +9,7 @@ Practice for myself
 ---
 
 # Latest News
+- [2025.02.24] 🔥Run Open-R1-Ko-SFT-v2.0 Tuning w/ config.yaml
 - [2025.02.23] 🔥Setup Autotrain and Run it
 - [2025.02.23] 💥Open Repository
 
@@ -24,4 +25,4 @@ pip install -r requirements.txt
 
 # Doing List
 - [x] [AutoTrain for Instruction Tuning(Initial)]()
-
+- [x] [AutoTrain for Open-R1-Ko-SFT-v2.0 Tuning w/ config.yaml]()

@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # Autotrain
-/llama3-autotrain
+/llama3-autotrain-ko

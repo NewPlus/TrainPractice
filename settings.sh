@@ -8,3 +8,6 @@ pip install -r requirements.txt
 
 # Huggingface Settings
 huggingface-cli login --token $HF_TOKEN
+
+#wandb Settings
+wandb login $WANDB_TOKEN
